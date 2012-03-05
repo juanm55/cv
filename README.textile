@@ -1,6 +1,6 @@
 h1. CV for JuanManuel LF
 
-Hi, my full name is Juan Manuel López Felizzola, you can find me in TW by juanm55 as in Li => juanm55[at]gmail.com
+Hi, my full name is Juan Manuel López Felizzola, you can find me in "TW by juanm55":https://twitter.com/#!/juanm55, and in Li => juanm55[at]gmail.com
 
 h3. Interests
 * I like programming, and the kind of power it gives one to make computers do what I want.
@@ -10,4 +10,15 @@ h3. Interests
 h3. Skills
 * HTML
 * CSS, I like Sassy ones for this, though i have checked out Less too
-* js, little experience here, but I really like the simplification Coffeescript gives me
+* js, little experience here, but I really like the simplification Coffeescript gives me, oh, and I have used jQuery too
+* Almost forgot about RoR! which is the framework I owe my whole professional development until now (thanks DHH!)
+
+h3. Societies and memberships
+* I am a co-organizer of the "Bogo<Dev> community":http://www.bogodev.org/
+* and a Member of Bogotajs (js community at Bogotá)
+
+h4. Some other random facts about me (which quite define my personality)
+* I like hard working people
+* I _really_ like studying and learning new thins
+* I like FOSS
+* In my free time I tend to... well study more, or watch Anime, or read Manga.

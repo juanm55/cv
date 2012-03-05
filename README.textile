@@ -16,7 +16,7 @@ h3. Skills
 * Almost forgot about RoR! which is the framework I owe my whole professional development until now (thanks DHH!)
 
 h3. Societies and memberships
-* I am a co-organizer of the "Bogo@<Dev>@ community":http://www.bogodev.org/
+* I am a co-organizer of the "BogoDev community":http://www.bogodev.org/
 * and a Member of Bogotajs (js community at Bogotá)
 
 h4. Some other random facts about me (which quite define my personality)
@@ -26,4 +26,4 @@ h4. Some other random facts about me (which quite define my personality)
 * In my free time I tend to... well study more, or watch Anime, or read Manga.
 
 fn1. Knowledge is power!
-fn2. I know it after making this thing at least!
+fn2. I do now

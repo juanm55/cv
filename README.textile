@@ -16,7 +16,7 @@ h3. Skills
 * Almost forgot about RoR! which is the framework I owe my whole professional development until now (thanks DHH!)
 
 h3. Societies and memberships
-* I am a co-organizer of the "Bogo<Dev> community":http://www.bogodev.org/
+* I am a co-organizer of the "Bogo@<Dev>@ community":http://www.bogodev.org/
 * and a Member of Bogotajs (js community at Bogotá)
 
 h4. Some other random facts about me (which quite define my personality)

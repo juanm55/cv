@@ -5,3 +5,9 @@ Hi, my full name is Juan Manuel López Felizzola, you can find me in TW by juanm
 h3. Interests
 * I like programming, and the kind of power it gives one to make computers do what I want.
 * I have entrepreneurial spirit, I like new ideas and enjoy thinking out-of-the-box
+* I like businesses too, and meeting people who is not afraid of sharing their passions with others (no matter how bizarre :D)
+
+h3. Skills
+* HTML
+* CSS, I like Sassy ones for this, though i have checked out Less too
+* js, little experience here, but I really like the simplification Coffeescript gives me

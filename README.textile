@@ -1,3 +1,5 @@
+!https://si0.twimg.com/profile_images/1755954436/282030_163199110419485_100001881909481_358598_644993_n.jpg![3]
+
 h1. CV for JuanManuel LF
 
 bq. Chie wa Chikara hai[1]
@@ -24,6 +26,8 @@ h4. Some other random facts about me (which quite define my personality)
 * I _really_ like studying and learning new things
 * I like FOSS
 * In my free time I tend to... well study more, or watch Anime, or read Manga.
+
+fn3. Hotlinked from my twitter account!
 
 fn1. Knowledge is power!
 

@@ -13,17 +13,17 @@ h3. Skills
 * HTML, textile[2]
 * CSS, I like Sassy ones for this, though i have checked out Less too
 * js, little experience here, but I really like the simplification Coffeescript gives me, oh, and I have used jQuery too
-* Almost forgot about RoR! which is the framework I owe my whole professional development until now (thanks DHH!)
+* Almost forgot about RoR! which is the framework I owe my whole professional development until now (thanks "@DHH":https://twitter.com/#!/dhh )
 
 h3. Societies and memberships
-* I am a co-organizer of the "BogoDev community":http://www.bogodev.org/
+* I am a co-organizer of the "BogoDev community":http://www.bogodev.org/ which is the mobile and web developer community at Bogotá
 * and a Member of Bogotajs (js community at Bogotá)
 
 h4. Some other random facts about me (which quite define my personality)
 * I like hard working people, and consider myself one
 * I _really_ like studying and learning new things
 * I like FOSS
-* In my free time I tend to... well study more, or watch Anime, or read Manga.
+* In my free time I tend to... well study more, watch Anime, or read Manga.
 
 
 fn1. Knowledge is power!
